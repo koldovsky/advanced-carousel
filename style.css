@@ -1,0 +1,8 @@
+.slides {
+  display: flex;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
